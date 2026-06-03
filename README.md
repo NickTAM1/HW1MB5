@@ -11,7 +11,6 @@ The camera supports **two finger pinch** to zoom in and out during gameplay.
 **How to test:**
 1. Build and run on a physical Android/iOS device (or use Unity Remote).
 2. Place two fingers on the screen and pinch them together to zoom in, spread apart to zoom out.
-3. The field of view is clamped between 15° and 90° so it never breaks.
 
 ---
 
